@@ -4,6 +4,10 @@ Annotation Guidelines-Based Knowledge Augmentation: Towards Enhancing Large Lang
 
 AGKA is a project aimed at enhancing Large Language Models (LLMs) for Educational Text Classification using annotation guidelines-based knowledge augmentation. This repository provides a comprehensive framework for performing multi-task classification on various educational text classification datasets using state-of-the-art LLMs and advanced prompting techniques.
 
+**Note** : Due to GitHub's file size upload limit, I have uploaded the original dataset to Google Drive. Since the CoI cognition presence dataset is private data, please contact the relevant authors for access.
+
+[ https://drive.google.com/file/d/1a0e87crwBMdP9pjP2XZhJhdKKEVpckN9/view?usp=drive_link](https://drive.google.com/file/d/1cHOyn1GNxJeRlthhY8c_30vkPS7xKw6A/view?usp=sharing)
+ 
 ## Key Features
 
 - 🌐 Support for multiple LLMs, including GPT 3.5, GPT 4.0 (OpenAI), Llama 3 series (Meta), and Mistral series (Mistral)
